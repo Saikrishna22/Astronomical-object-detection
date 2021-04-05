@@ -13,21 +13,21 @@ SDSS - DR16 :
 
 ### Variables description:
 
-objid = Object Identifier
-ra = J2000 Right Ascension (r-band)
-dec = J2000 Declination (r-band)
-u = u-band
-g = g-band
-r = r-band
-i = i-band
-z = z-band
-run = Run Number
-rerun = Rerun Number
-camcol = Camera column
-field = Field number
-specobjid = Object Identifier
-class = object class (galaxy, star or quasar object)
-redshift = Final Redshift
-plate = plate number
-mjd = MJD of observation
-fiberid = fiberID
+* objid = Object Identifier
+* ra = J2000 Right Ascension (r-band)
+* dec = J2000 Declination (r-band)
+* u = u-band
+* g = g-band
+* r = r-band
+* i = i-band
+* z = z-band
+* run = Run Number
+* rerun = Rerun Number
+* camcol = Camera column
+* field = Field number
+* specobjid = Object Identifier
+* class = object class (galaxy, star or quasar object)
+* redshift = Final Redshift
+* plate = plate number
+* mjd = MJD of observation
+* fiberid = fiberID
