@@ -1,5 +1,5 @@
 # Astronomy-object-detection
-Classifying Astronomical objects using SDSS - DR16 Data
+### Classifying Astronomical objects using SDSS - DR16 Data
 
 ---
 ### Data:
@@ -31,3 +31,13 @@ SDSS - DR16 :
 * plate = plate number
 * mjd = MJD of observation
 * fiberid = fiberID
+
+---
+
+| Model  | Accuracy(testing) |
+| ------------- | ------------- |
+| Logistic regression  | 97.8  |
+| Logistic regression(grid-cv)  | 98.12  |
+| Decision tree | 98.8 |
+| Random forest | 99.1 |
+| Random forest(grid-cv) | 99.6  |
