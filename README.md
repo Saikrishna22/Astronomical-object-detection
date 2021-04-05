@@ -33,7 +33,7 @@ SDSS - DR16 :
 * fiberid = fiberID
 
 ---
-
+### Results
 | Model  | Accuracy(testing) |
 | ------------- | ------------- |
 | Logistic regression  | 97.8  |
